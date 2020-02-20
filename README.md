@@ -1,4 +1,4 @@
-# plasmid hostßrelated genes
+# plasmid host_related genes
 
 This project is try to find microbial essential genes on plasmids.
 
