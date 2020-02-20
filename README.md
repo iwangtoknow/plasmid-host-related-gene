@@ -1,4 +1,5 @@
-# plasmid_essential_genes
+# plasmid hostßrelated genes
+
 This project is try to find microbial essential genes on plasmids.
 
 cite: [Why There Are No Essential Genes on Plasmids](https://academic.oup.com/mbe/article/32/12/3079/2579220)
